@@ -1,0 +1,18 @@
+{
+  "name": "r2d2-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@bitbucket.org:hackatag/r2d2-backend.git",
+  "author": "Ricalvim <ricalvima@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules --no-notify src/server.ts"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.0.0-pre.52",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
