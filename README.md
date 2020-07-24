@@ -3,8 +3,8 @@
 ![alt text](https://img.shields.io/badge/backend-Ok!-brightgreen) ![alt text](https://img.shields.io/badge/frontend-Ok!-brightgreen)
 
 
-Solução desenvolvida pelo time R2D2 para o problema proposto pela Blacktad durante as 72h do Hackatag 2020.
-Time:
+Solução desenvolvida pelo time **R2D2** para o problema proposto pela Blacktag durante as 72h do Hackatag 2020.
+##### Time:
   - [Daniel Fraga](https://www.linkedin.com/in/daniel-a-fraga/)
   - [Daniel Toloto](https://www.linkedin.com/in/dtoloto/)
   - [Rafael Sampaio](https://www.linkedin.com/in/rafael-sampaio-15a195109/)
