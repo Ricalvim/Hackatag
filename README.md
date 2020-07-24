@@ -4,18 +4,19 @@
 
 
 Solução desenvolvida pelo time **R2D2** para o problema proposto pela Blacktag durante as 72h do Hackatag 2020.
+[ARQUIVOS FINAIS](https://drive.google.com/drive/folders/1Gg-oVPnrz8AIvx5rtLsGJaUBXJFGYhj0?usp=sharing)
 ##### Time:
   - [Daniel Fraga](https://www.linkedin.com/in/daniel-a-fraga/)
   - [Daniel Toloto](https://www.linkedin.com/in/dtoloto/)
   - [Rafael Sampaio](https://www.linkedin.com/in/rafael-sampaio-15a195109/)
   - [Ricardo Alvim](https://www.linkedin.com/in/ricardo-alvim-netto-b1290015a/)
+ 
 
 
 ## Como desenvolver um sistema de revenda simples e viável?
 ### Problemas:
   - Revendas realizadas fora da plataforma Blacktag
   - Auto índice de fraude contra Blacktag, produtor do evento e clientes.
-  - mais pontos
  
 
 ### Nossas Premissas
